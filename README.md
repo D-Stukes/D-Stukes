@@ -1,4 +1,4 @@
-# Hi, my name is: Diane Stukes
+# Hi, my name is Diane Stukes
 
 Welcome to my Github page!  Here you'll find exciting projects that I have completed in my journey to becoming a Software Engineer.
 
