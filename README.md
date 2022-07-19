@@ -20,8 +20,8 @@ CSS,
 Flexbox,
 Grid,
 Node JS,
-Javascript,
-React JS,
+Javascript and
+React JS.
 
 Learn more at my LinkedIn page: https://www.linkedin.com/in/dianestukes/
 
